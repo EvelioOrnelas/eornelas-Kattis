@@ -1,2 +1,6 @@
-# eornelas-Kattis
-This contains all the solutions to the problems completed by me from Open.Kattis.com
+## Kattis Problems
+
+| Problem | Language |
+|-----------:|:--------:|:---------|
+| [Autori](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Autori.cpp)  | C++ |
+| [Babelfish](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Babelfish.cpp)  | C++ |
