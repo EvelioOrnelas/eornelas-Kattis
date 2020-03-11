@@ -1,6 +1,6 @@
 ## Kattis Problems - Solved by me!
 
-#Let me know if there are any issues with code
+# Let me know if there are any issues with code
 
 | Problem | Language | [Open.Kattis.com](https://open.kattis.com/) |
 |-----------:|:---------:|:------------:|
