@@ -1,7 +1,7 @@
 ## Kattis Problems
 
 | Problem | Language | Open.Kattis.com |
-|-----------:|:---------:|:------------|
+|-----------:|:---------:|:------------:|
 | [Autori](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Autori.cpp)  | C++ | [Here](https://open.kattis.com/problems/autori)  |
 | [Babelfish](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Babelfish.cpp)  | C++ | [Here](https://open.kattis.com/problems/babelfish)  |
 | [CD](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/CD.cpp)  | C++ | [Here]()  |
