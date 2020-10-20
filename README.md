@@ -15,6 +15,7 @@
 | [HissingMicrophone](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/HissingMicrophone.cpp)  | C++ | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)  |
 | [MinSpanTree](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/MinSpanTree.cpp)  | C++ | [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree)  |
 | [NastyHacks](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/NastyHacks.cpp)  | C++ | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)  |
+| [Nodup](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Nodup.cpp)  | C++ | [No Duplicates](https://open.kattis.com/problems/nodup)  |
 | [Oddities](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Oddities.cpp)  | C++ | [Oddities](https://open.kattis.com/problems/oddities)  |
 | [R2](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/R2.cpp)  | C++ | [R2](https://open.kattis.com/problems/r2)  |
 | [ShortestPath1](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/ShortestPath1.cpp)  | C++ | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)  |
