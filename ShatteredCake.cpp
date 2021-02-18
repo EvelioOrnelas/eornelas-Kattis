@@ -1,20 +1,27 @@
+//
+//  main.cpp
+//  KattisSolving
+//
+//  Created by Evelio Ornelas Jr. on 12/16/19.
+//  Copyright © 2019 Evelio Ornelas Jr. All rights reserved.
+//
+
 #include <iostream>
-#include <cstring>
+#include <string>
 
 using namespace std;
 
 void start() {
-    int i = 0;
-    string s = "";
-    char c;
-    getline(cin, s);
-    while (s[i]) {
-      c=s[i];
-    if (isupper(c))
-        cout << c++;
-        i++;
+    int W, N, w, l, x, sum;
+    cin >> W;
+    cin >> N;
+    for(int i=0; i<N; i++) {
+        cin >> w >> l;
+        x = w * l;
+        sum += x;
     }
-    cout << endl;
+    W = sum / W;
+    cout << W << endl;
 }
 
 int main() {
@@ -22,5 +29,5 @@ int main() {
     start();
     return 0;
 }
-// Autori
+// Shattered Cake
 
