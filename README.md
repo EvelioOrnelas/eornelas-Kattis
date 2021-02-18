@@ -15,6 +15,7 @@
 | [Hello](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/HelloWorld.cpp)  | C++ | [Hello World!](https://open.kattis.com/problems/hello)  |
 | [HissingMicrophone](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/HissingMicrophone.cpp)  | C++ | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)  |
 | [IsItHalloween](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/IsItHalloween.cpp)  | C++ | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)  |
+| [jackolanternjuxtaposition](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/jackolanternjuxtaposition.cpp)  | C++ | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)  |
 | [MinSpanTree](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/MinSpanTree.cpp)  | C++ | [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree)  |
 | [NastyHacks](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/NastyHacks.cpp)  | C++ | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)  |
 | [Nodup](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Nodup.cpp)  | C++ | [No Duplicates](https://open.kattis.com/problems/nodup)  |
