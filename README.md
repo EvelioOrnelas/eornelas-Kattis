@@ -12,6 +12,7 @@
 | [everywhere](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Everywhere.cpp)  | C++ | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)  |
 | [fallingapart](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FallingApart.cpp)  | C++ | [Falling Apart](https://open.kattis.com/problems/fallingapart)  |
 | [fizzbuzz](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FizzBuzz.cpp)  | C++ | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
+| [fyi](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/fyi.cpp)  | C++ | [FYI](https://open.kattis.com/problems/fyi)  |
 | [hello](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/HelloWorld.cpp)  | C++ | [Hello World!](https://open.kattis.com/problems/hello)  |
 | [hissingmicrophone](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/HissingMicrophone.cpp)  | C++ | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)  |
 | [isithalloween](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/IsItHalloween.cpp)  | C++ | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)  |
