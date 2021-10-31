@@ -19,6 +19,7 @@
 | [minspantree](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/MinSpanTree.cpp)  | C++ | [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree)  |
 | [nastyhacks](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/NastyHacks.cpp)  | C++ | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)  |
 | [nodup](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Nodup.cpp)  | C++ | [No Duplicates](https://open.kattis.com/problems/nodup)  |
+| [nsum](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/nsum.cpp)  | C++ | [N-sum](https://open.kattis.com/problems/nsum)  |
 | [oddities](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Oddities.cpp)  | C++ | [Oddities](https://open.kattis.com/problems/oddities)  |
 | [r2](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/R2.cpp)  | C++ | [R2](https://open.kattis.com/problems/r2)  |
 | [shortestpath1](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/ShortestPath1.cpp)  | C++ | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)  |
