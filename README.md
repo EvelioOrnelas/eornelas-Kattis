@@ -9,6 +9,7 @@
 | [carrots](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Carrots.cpp)  | C++ | [Solving for Carrots](https://open.kattis.com/problems/carrots)  |
 | [cold](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Cold.cpp)  | C++ | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
 | [different](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Different.cpp)  | C++ | [A Different Problem](https://open.kattis.com/problems/different)  |
+| [digitswap](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/digitswap.cpp)  | C++ | [Digit Swap](https://open.kattis.com/problems/digitswap)  |
 | [everywhere](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Everywhere.cpp)  | C++ | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)  |
 | [fallingapart](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FallingApart.cpp)  | C++ | [Falling Apart](https://open.kattis.com/problems/fallingapart)  |
 | [fizzbuzz](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FizzBuzz.cpp)  | C++ | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
