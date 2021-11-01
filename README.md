@@ -3,11 +3,13 @@
 | Problem | Language | [Open.Kattis.com](https://open.kattis.com/) |
 |-----------:|:---------:|:------------:|
 | [aaah](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Aaah.cpp)  | C++ | [Aaah!](https://open.kattis.com/problems/aaah)  |
+| [addtwonumbers](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/addtwonumbers.cpp)  | C++ | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)  |
 | [autori](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Autori.cpp)  | C++ | [Autori](https://open.kattis.com/problems/autori)  |
 | [babelfish](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Babelfish.cpp)  | C++ | [Babelfish](https://open.kattis.com/problems/babelfish)  |
 | [cd](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/CD.cpp)  | C++ | [CD](https://open.kattis.com/problems/cd)  |
 | [carrots](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Carrots.cpp)  | C++ | [Solving for Carrots](https://open.kattis.com/problems/carrots)  |
 | [cold](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Cold.cpp)  | C++ | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
+| [dicegame](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/dicegame.cpp)  | C++ | [Dice Game](https://open.kattis.com/problems/dicegame)  |
 | [different](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Different.cpp)  | C++ | [A Different Problem](https://open.kattis.com/problems/different)  |
 | [digitswap](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/digitswap.cpp)  | C++ | [Digit Swap](https://open.kattis.com/problems/digitswap)  |
 | [echoechoecho](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/echoechoecho.cpp)  | C++ | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)  |
