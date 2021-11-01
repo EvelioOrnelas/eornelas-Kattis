@@ -10,6 +10,8 @@
 | [cold](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Cold.cpp)  | C++ | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
 | [different](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Different.cpp)  | C++ | [A Different Problem](https://open.kattis.com/problems/different)  |
 | [digitswap](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/digitswap.cpp)  | C++ | [Digit Swap](https://open.kattis.com/problems/digitswap)  |
+| [echoechoecho](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/echoechoecho.cpp)  | C++ | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)  |
+| [electricaloutlets](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/electricaloutlets.cpp)  | C++ | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)  |
 | [everywhere](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Everywhere.cpp)  | C++ | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)  |
 | [fallingapart](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FallingApart.cpp)  | C++ | [Falling Apart](https://open.kattis.com/problems/fallingapart)  |
 | [fizzbuzz](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FizzBuzz.cpp)  | C++ | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
@@ -25,6 +27,7 @@
 | [nodup](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Nodup.cpp)  | C++ | [No Duplicates](https://open.kattis.com/problems/nodup)  |
 | [nsum](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/nsum.cpp)  | C++ | [N-sum](https://open.kattis.com/problems/nsum)  |
 | [oddities](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Oddities.cpp)  | C++ | [Oddities](https://open.kattis.com/problems/oddities)  |
+| [pet](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/pet.cpp)  | C++ | [Pet](https://open.kattis.com/problems/pet)  |
 | [r2](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/R2.cpp)  | C++ | [R2](https://open.kattis.com/problems/r2)  |
 | [shortestpath1](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/ShortestPath1.cpp)  | C++ | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)  |
 | [simon](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Simon.cpp)  | C++ | [Simon Says](https://open.kattis.com/problems/simon)  |
