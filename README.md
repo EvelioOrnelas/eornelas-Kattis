@@ -36,3 +36,4 @@
 | [simon](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Simon.cpp)  | C++ | [Simon Says](https://open.kattis.com/problems/simon)  |
 | [timeloop](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/StuckInATimeLoop.cpp)  | C++ | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)  |
 | [twostones](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/TwoStones.cpp)  | C++ | [Take Two Stones](https://open.kattis.com/problems/twostones)  |
+| [twosum](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/twosum.cpp)  | C++ | [Two-sum](https://open.kattis.com/problems/twosum)  |
