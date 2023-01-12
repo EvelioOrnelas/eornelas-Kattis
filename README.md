@@ -34,6 +34,7 @@
 | [r2](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/R2.cpp)  | C++ | [R2](https://open.kattis.com/problems/r2)  |
 | [shortestpath1](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/ShortestPath1.cpp)  | C++ | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)  |
 | [simon](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Simon.cpp)  | C++ | [Simon Says](https://open.kattis.com/problems/simon)  |
+| [sorttwonumbers](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/sorttwonumbers.cpp)  | C++ | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)  |
 | [timeloop](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/StuckInATimeLoop.cpp)  | C++ | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)  |
 | [twostones](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/TwoStones.cpp)  | C++ | [Take Two Stones](https://open.kattis.com/problems/twostones)  |
 | [twosum](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/twosum.cpp)  | C++ | [Two-sum](https://open.kattis.com/problems/twosum)  |
