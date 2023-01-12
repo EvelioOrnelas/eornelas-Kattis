@@ -16,6 +16,7 @@
 | [electricaloutlets](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/electricaloutlets.cpp)  | C++ | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)  |
 | [everywhere](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Everywhere.cpp)  | C++ | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)  |
 | [fallingapart](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FallingApart.cpp)  | C++ | [Falling Apart](https://open.kattis.com/problems/fallingapart)  |
+| [findingana](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/findingana.cpp)  | C++ | [Finding An A](https://open.kattis.com/problems/findingana)  |
 | [fizzbuzz](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/FizzBuzz.cpp)  | C++ | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | [fyi](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/fyi.cpp)  | C++ | [FYI](https://open.kattis.com/problems/fyi)  |
 | [greetings2](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/greetings2.cpp)  | C++ | [Greetings!](https://open.kattis.com/problems/greetings2)  |
