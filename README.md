@@ -38,3 +38,4 @@
 | [timeloop](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/StuckInATimeLoop.cpp)  | C++ | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)  |
 | [twostones](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/TwoStones.cpp)  | C++ | [Take Two Stones](https://open.kattis.com/problems/twostones)  |
 | [twosum](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/twosum.cpp)  | C++ | [Two-sum](https://open.kattis.com/problems/twosum)  |
+| [whichisgreater](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/whichisgreater.cpp)  | C++ | [Which is Greater?](https://open.kattis.com/problems/whichisgreater)  |
