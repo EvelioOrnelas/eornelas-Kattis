@@ -9,12 +9,14 @@ void start() {
     int count=0;
     for (auto i : word) {
         if(i == 'a') {
-            count++;
-            word.erase(word.begin() + 0, word.end() - count);
             break;
         }
-        cout << word;
+        else {
+            count++;
+        }
     }
+    word.erase(0, count);
+    cout << word;
 }
 
 int main() {
