@@ -29,6 +29,7 @@
 | [nastyhacks](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/NastyHacks.cpp)  | C++ | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)  |
 | [nodup](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Nodup.cpp)  | C++ | [No Duplicates](https://open.kattis.com/problems/nodup)  |
 | [nsum](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/nsum.cpp)  | C++ | [N-sum](https://open.kattis.com/problems/nsum)  |
+| [oddecho](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/oddecho.cpp)  | C++ | [Odd Echo](https://open.kattis.com/problems/oddecho)  |
 | [oddities](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Oddities.cpp)  | C++ | [Oddities](https://open.kattis.com/problems/oddities)  |
 | [pet](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/pet.cpp)  | C++ | [Pet](https://open.kattis.com/problems/pet)  |
 | [r2](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/R2.cpp)  | C++ | [R2](https://open.kattis.com/problems/r2)  |
