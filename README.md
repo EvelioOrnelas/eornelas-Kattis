@@ -33,6 +33,7 @@
 | [oddities](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Oddities.cpp)  | C++ | [Oddities](https://open.kattis.com/problems/oddities)  |
 | [pet](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/pet.cpp)  | C++ | [Pet](https://open.kattis.com/problems/pet)  |
 | [r2](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/R2.cpp)  | C++ | [R2](https://open.kattis.com/problems/r2)  |
+| [shatteredcake](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/shatteredcake.cpp)  | C++ | [Shattered Cake](https://open.kattis.com/problems/shatteredcake)  |
 | [shortestpath1](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/ShortestPath1.cpp)  | C++ | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)  |
 | [simon](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/Simon.cpp)  | C++ | [Simon Says](https://open.kattis.com/problems/simon)  |
 | [sorttwonumbers](https://github.com/EvelioOrnelas/eornelas-Kattis/blob/master/sorttwonumbers.cpp)  | C++ | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)  |
